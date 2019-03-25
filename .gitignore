@@ -1,0 +1,6 @@
+database
+\.DS_Store
+node_modules
+server_stream/node_modules
+title.basics.tsv
+.env
