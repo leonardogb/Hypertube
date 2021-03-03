@@ -19,7 +19,7 @@
     "graphql-loader": "^1.2.1",
     "graphql-tag": "^2.10.0",
     "opensubtitles-api": "^5.0.1",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "validator": "^10.10.0",
     "video.js": "^7.4.1",
